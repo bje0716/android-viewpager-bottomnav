@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_one"
+        android:enabled="true"
+        android:title="1" />
+    <item
+        android:id="@+id/bottom_two"
+        android:enabled="true"
+        android:title="2" />
+    <item
+        android:id="@+id/bottom_three"
+        android:enabled="true"
+        android:title="3" />
+    <item
+        android:id="@+id/bottom_four"
+        android:enabled="true"
+        android:title="4" />
+</menu>
